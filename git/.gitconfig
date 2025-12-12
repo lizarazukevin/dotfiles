@@ -7,3 +7,5 @@
 [color]
   ui = auto
 
+[core]
+	excludesfile = /Users/kliz/.gitignore_global
