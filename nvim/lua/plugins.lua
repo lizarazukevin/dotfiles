@@ -47,11 +47,25 @@ return require("lazy").setup({
   -- =======================================================
   {
     "goolord/alpha-nvim",
-  dependencies = { "nvim-tree/nvim-web-devicons" },
-  config = function()
-    require("alpha").setup(
-      require("alpha.themes.dashboard").config
-    )
-  end,
+    dependencies = { "nvim-tree/nvim-web-devicons" },
+    config = function()
+      require("alpha").setup(
+        require("alpha.themes.dashboard").config
+      )
+    end,
+  },
+  -- =======================================================
+  -- Smear cursorline
+  -- =======================================================
+  {
+    "sphamba/smear-cursor.nvim",
+    opts = {
+        smear_between_buffers = true,
+        smear_between_neighbor_lines = true,
+        scroll_buffer_space = true,
+        stiffness = 0.6,
+        trailing_stiffness = 0.3,
+        distance_stop_animating = 0.5,
+    },
   },
 })
