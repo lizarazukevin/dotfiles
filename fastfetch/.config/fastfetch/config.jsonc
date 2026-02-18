@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "shell",
+    "de",
+    "theme",
+    "icons",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    {
+      "type": "command",
+      "text": "~/.config/fastfetch/scripts/quip.sh",
+      "key": "Quip"
+    },
+    "break",
+    "colors"
+  ]
+}
