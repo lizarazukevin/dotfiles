@@ -1,0 +1,163 @@
+{
+    "VaultName": "Dev",
+    "Modified_at": "2026-03-09T05:36:11",
+    "Pending": {
+        "03 Weekly/20260309-W11-M1.md": [
+            {
+                "id": "1314312430",
+                "legacyId": "",
+                "status": "<",
+                "title": "- [<] [[Quri-002 Add idempotency to APIs]]",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 18,
+                    "startCharIndex": 0,
+                    "endLine": 18,
+                    "endCharIndex": 42
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "03 Weekly/20260218.md": [
+            {
+                "id": "2342772185",
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Complete a leetcode problem!",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260218.md",
+                "taskLocation": {
+                    "startLine": 19,
+                    "startCharIndex": 0,
+                    "endLine": 19,
+                    "endCharIndex": 34
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "03 Weekly/20260302.md": [],
+        "03 Weekly/20260222.md": [],
+        "05 Learning/SpringBoot.md": [],
+        "05 Learning/Smithy.md": [],
+        "05 Learning/Mongo.md": [],
+        "05 Learning/IntelliJ Setup.md": [],
+        "05 Learning/Gradle.md": [],
+        "04 Business/Milestones/M1.md": [],
+        "02 Design/Quri/Storing service secrets.md": []
+    },
+    "Completed": {
+        "03 Weekly/20260302.md": [],
+        "03 Weekly/20260222.md": [],
+        "03 Weekly/20260218.md": [
+            {
+                "id": "2738016293",
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] Commit Smithy files",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260218.md",
+                "taskLocation": {
+                    "startLine": 16,
+                    "startCharIndex": 0,
+                    "endLine": 16,
+                    "endCharIndex": 25
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "4112676702",
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] Document and commit backend files",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260218.md",
+                "taskLocation": {
+                    "startLine": 17,
+                    "startCharIndex": 0,
+                    "endLine": 17,
+                    "endCharIndex": 39
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "1188604978",
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] Make an API call to Mongo (ex. create bill)",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260218.md",
+                "taskLocation": {
+                    "startLine": 18,
+                    "startCharIndex": 0,
+                    "endLine": 18,
+                    "endCharIndex": 49
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "05 Learning/SpringBoot.md": [],
+        "05 Learning/Smithy.md": [],
+        "05 Learning/Mongo.md": [],
+        "05 Learning/IntelliJ Setup.md": [],
+        "05 Learning/Gradle.md": [],
+        "04 Business/Milestones/M1.md": [],
+        "02 Design/Quri/Storing service secrets.md": [],
+        "03 Weekly/20260309-W11-M1.md": []
+    }
+}
