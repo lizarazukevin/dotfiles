@@ -1,13 +1,13 @@
 {
     "VaultName": "Dev",
-    "Modified_at": "2026-03-09T05:36:11",
+    "Modified_at": "2026-03-13T12:14:57",
     "Pending": {
         "03 Weekly/20260309-W11-M1.md": [
             {
-                "id": "1314312430",
+                "id": "4173773916",
                 "legacyId": "",
-                "status": "<",
-                "title": "- [<] [[Quri-002 Add idempotency to APIs]]",
+                "status": "/",
+                "title": "- [/] [[Quri-002 Add idempotency to APIs]]",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -20,10 +20,140 @@
                 "dependsOn": [],
                 "filePath": "03 Weekly/20260309-W11-M1.md",
                 "taskLocation": {
-                    "startLine": 18,
+                    "startLine": 22,
                     "startCharIndex": 0,
-                    "endLine": 18,
+                    "endLine": 22,
                     "endCharIndex": 42
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "2909793630",
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Diagram profile creation (design)",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 24,
+                    "startCharIndex": 0,
+                    "endLine": 24,
+                    "endCharIndex": 39
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "264141039",
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Diagram bill creation (design)",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 25,
+                    "startCharIndex": 0,
+                    "endLine": 25,
+                    "endCharIndex": 36
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "983676039",
+                "legacyId": "",
+                "status": "?",
+                "title": "- [?] [[Quri-004 Setup branch protection rules]]",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 26,
+                    "startCharIndex": 0,
+                    "endLine": 26,
+                    "endCharIndex": 48
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "3364286581",
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] [[Quri-005 Add linter to packages that need it]]",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 27,
+                    "startCharIndex": 0,
+                    "endLine": 27,
+                    "endCharIndex": 54
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": "3619908045",
+                "legacyId": "",
+                "status": "/",
+                "title": "- [/] [[Product Stories V1]]",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 28,
+                    "startCharIndex": 0,
+                    "endLine": 28,
+                    "endCharIndex": 28
                 },
                 "completion": "",
                 "cancelledDate": "",
@@ -60,13 +190,8 @@
         ],
         "03 Weekly/20260302.md": [],
         "03 Weekly/20260222.md": [],
-        "05 Learning/SpringBoot.md": [],
-        "05 Learning/Smithy.md": [],
-        "05 Learning/Mongo.md": [],
         "05 Learning/IntelliJ Setup.md": [],
-        "05 Learning/Gradle.md": [],
-        "04 Business/Milestones/M1.md": [],
-        "02 Design/Quri/Storing service secrets.md": []
+        "01 Projects/Quri/Tasks/Quri-003 Transfer and format notion notes to obsidian.md": []
     },
     "Completed": {
         "03 Weekly/20260302.md": [],
@@ -151,13 +276,35 @@
                 "reminder": ""
             }
         ],
-        "05 Learning/SpringBoot.md": [],
-        "05 Learning/Smithy.md": [],
-        "05 Learning/Mongo.md": [],
         "05 Learning/IntelliJ Setup.md": [],
-        "05 Learning/Gradle.md": [],
-        "04 Business/Milestones/M1.md": [],
-        "02 Design/Quri/Storing service secrets.md": [],
-        "03 Weekly/20260309-W11-M1.md": []
+        "01 Projects/Quri/Tasks/Quri-003 Transfer and format notion notes to obsidian.md": [],
+        "03 Weekly/20260309-W11-M1.md": [
+            {
+                "id": "2644534467",
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] [[Quri-003 Transfer and format notion notes to obsidian]]",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "03 Weekly/20260309-W11-M1.md",
+                "taskLocation": {
+                    "startLine": 23,
+                    "startCharIndex": 0,
+                    "endLine": 23,
+                    "endCharIndex": 63
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
     }
 }
