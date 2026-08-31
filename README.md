@@ -1,7 +1,7 @@
 # Dotfiles
 
 My personal configuration files for Zsh, Neovim, Git, Fastfetch, and Obsidian.
-Designed to be modular, portable, and easy to install on new machines.
+Designed to be modular, portable, and easy to install on new machines
 
 ---
 
